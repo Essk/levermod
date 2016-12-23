@@ -1,3 +1,9 @@
+Currently following along with https://bedrockminer.jimdo.com/modding-tutorials/basic-modding-1-8/
+
+With help from https://github.com/Xalior/Xalorium where 1.10 diverges too much.
+
+What follows is the standard readme from MinecraftForge
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
