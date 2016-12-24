@@ -1,0 +1,6 @@
+{
+  "parent":"levermod:item/base",
+  "textures": {
+    "layer0":"levermod:items/my_item"
+  }
+}
