@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "levermod:my_block" }
+  }
+}
